@@ -6,7 +6,7 @@ Users can answer multiple-choice questions, get instant feedback, and track thei
 ---
 
 ## 🎮 Live Demo
-Play the quiz online: [Live Link]()  
+Play the quiz online: [Live Link](https://kirtinanwanii.github.io/Interactive-Web-Quiz/)  
 
 ---
 
